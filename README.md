@@ -23,6 +23,7 @@ Audio Analysis	SpeechRecognition, PyAudio
 Frontend	HTML, CSS, JavaScript
 Database (Optional)	SQLite / Firebase
 Deployment	Localhost / Cloud (Render / AWS / Azure)
+
 📊 Performance Metrics
 Module	Metric	Result / Accuracy	Remarks
 Face Detection	Precision	98.2%	Accurate detection of candidate presence
@@ -31,6 +32,7 @@ Gaze Detection	Accuracy	92.7%	Reliable deviation tracking
 Object Detection	mAP	90.5%	Detects mobile phones or books in frame
 Voice Activity Detection	Accuracy	93.8%	Differentiates normal background noise from speech
 Overall System Accuracy	—	94.1%	Stable and dependable in real-time proctoring
+
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/<your-username>/ai-cheating-detection.git

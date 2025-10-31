@@ -29,7 +29,7 @@ Overall System Accuracy	—	94.1%	Stable and dependable in real-time proctoring
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/<your-username>/ai-cheating-detection.git
+git clone https://github.com/<krishnaveni662>/ai-cheating-detection.git
 cd ai-cheating-detection
 
 2️⃣ Create Virtual Environment

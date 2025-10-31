@@ -14,15 +14,9 @@ The system uses computer vision and deep learning to monitor students through th
 ✅ Alert System – Generates automatic alerts and logs all suspicious events.
 
 🧩 Tech Stack
-Component	Technology
-Programming Language	Python
-Framework	Flask
-Computer Vision	OpenCV, Mediapipe
-Deep Learning	YOLOv8, DeepFace
-Audio Analysis	SpeechRecognition, PyAudio
-Frontend	HTML, CSS, JavaScript
-Database (Optional)	SQLite / Firebase
-Deployment	Localhost / Cloud (Render / AWS / Azure)
+#Python, Flask, OpenCV, Mediapipe, YOLOv8, DeepFace, Audio Analysis & SpeechRecognition, PyAudio
+#Frontend:	HTML, CSS, JavaScript
+#Database:	MySQL 
 
 📊 Performance Metrics
 Module	Metric	Result / Accuracy	Remarks

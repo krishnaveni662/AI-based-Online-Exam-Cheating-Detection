@@ -4,19 +4,19 @@ This project is an AI-powered proctoring system designed to ensure integrity in 
 The system uses computer vision and deep learning to monitor students through their webcam and automatically flag suspicious activities such as multiple faces, gaze deviation, or use of unauthorized devices.
 
 🚀 Features
-✅ Real-Time Monitoring – Continuously tracks the candidate through the webcam during the exam.
-✅ Face Detection & Recognition – Identifies and verifies the candidate’s presence.
-✅ Multiple Face Detection – Flags additional faces appearing in the frame.
-✅ Gaze & Head Pose Tracking – Detects if the candidate is looking away from the screen frequently.
-✅ Object Detection – Recognizes unauthorized objects (e.g., mobile phones, books).
-✅ Voice Activity Detection – Detects speech or background voices that indicate possible cheating.
-✅ Flask Web Interface – Provides an easy-to-use browser interface for real-time monitoring.
+✅ Real-Time Monitoring – Continuously tracks the candidate through the webcam during the exam. | 
+✅ Face Detection & Recognition – Identifies and verifies the candidate’s presence. | 
+✅ Multiple Face Detection – Flags additional faces appearing in the frame. | 
+✅ Gaze & Head Pose Tracking – Detects if the candidate is looking away from the screen frequently. | 
+✅ Object Detection – Recognizes unauthorized objects (e.g., mobile phones, books). | 
+✅ Voice Activity Detection – Detects speech or background voices that indicate possible cheating. | 
+✅ Flask Web Interface – Provides an easy-to-use browser interface for real-time monitoring. | 
 ✅ Alert System – Generates automatic alerts and logs all suspicious events.
 
 🧩 Tech Stack
-##Python, Flask, OpenCV, Mediapipe, YOLOv8, DeepFace, Audio Analysis & SpeechRecognition, PyAudio
-#Frontend:	HTML, CSS, JavaScript
-#Database:	MySQL 
+Python, Flask, OpenCV, Mediapipe, YOLOv8, DeepFace, Audio Analysis & SpeechRecognition, PyAudio | 
+Frontend:	HTML, CSS, JavaScript | 
+Database:	MySQL 
 
 📊 Performance Metrics
 Module	Metric	Result / Accuracy	Remarks
